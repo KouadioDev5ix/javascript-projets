@@ -210,6 +210,12 @@ header p {
 }
 
 
+.todo-item:hover .delete-btn {
+  opacity: 1;
+}
+
+
+
 
 
 
