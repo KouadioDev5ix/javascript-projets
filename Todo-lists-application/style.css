@@ -221,8 +221,6 @@ header p {
   display: none;
 }
 
-
-
 footer {
   display: flex;
   justify-content: space-between;
@@ -232,7 +230,6 @@ footer {
   background-color: var(--light);
   font-size: 14px;
 }
-
 
 #items-left {
   color: var(--gray);
@@ -246,4 +243,6 @@ footer {
   transition: all 0.2s;
 }
 
-
+#clear-completed:hover {
+  color: var(--danger);
+}
