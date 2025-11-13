@@ -214,6 +214,11 @@ header p {
   opacity: 1;
 }
 
+.delete-btn:hover {
+  color: var(--danger);
+}
+
+
 
 
 
