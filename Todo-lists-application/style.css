@@ -14,3 +14,15 @@
   --success: #40c057;
   --border: #e9ecef;
 }
+
+
+body {
+  font-family: sans-serif;
+  background-color: #f1f3f5;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: var(--dark);
+}
