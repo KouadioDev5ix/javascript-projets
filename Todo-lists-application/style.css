@@ -129,6 +129,10 @@ header p {
 }
 
 
+#todos-list {
+  list-style-type: none;
+}
+
 
 
 
