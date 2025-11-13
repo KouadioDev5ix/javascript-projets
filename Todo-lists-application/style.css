@@ -100,6 +100,16 @@ header p {
 
 
 
+.filter {
+  padding: 5px 3px;
+  cursor: pointer;
+  color: var(--gray);
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+}
+
+
+
 
 
 
