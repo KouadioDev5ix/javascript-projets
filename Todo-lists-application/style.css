@@ -146,6 +146,11 @@ header p {
   background-color: var(--light);
 }
 
+.checkbox-container {
+  margin-right: 15px;
+}
+
+
 
 
 
