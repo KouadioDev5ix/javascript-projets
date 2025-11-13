@@ -115,6 +115,14 @@ header p {
 
 
 
+.filter.active {
+  color: var(--primary);
+  border-bottom: 2px solid var(--primary);
+  font-weight: 500;
+}
+
+
+
 
 
 
