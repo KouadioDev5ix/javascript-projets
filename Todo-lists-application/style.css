@@ -108,6 +108,9 @@ header p {
   transition: all 0.2s;
 }
 
+.filter:hover {
+  color: var(--primary);
+}
 
 
 
