@@ -142,6 +142,11 @@ header p {
 
 
 
+.todo-item:hover {
+  background-color: var(--light);
+}
+
+
 
 
 
