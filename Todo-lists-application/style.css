@@ -167,6 +167,11 @@ header p {
 }
 
 
+.todo-checkbox:checked + .checkmark {
+  background-color: var(--success);
+  border-color: var(--success);
+}
+
 
 
 
