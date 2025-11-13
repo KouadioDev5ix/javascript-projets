@@ -232,3 +232,9 @@ footer {
   background-color: var(--light);
   font-size: 14px;
 }
+
+
+#items-left {
+  color: var(--gray);
+}
+
