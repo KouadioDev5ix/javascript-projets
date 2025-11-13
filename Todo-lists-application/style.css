@@ -150,6 +150,11 @@ header p {
   margin-right: 15px;
 }
 
+.todo-checkbox {
+  opacity: 0;
+  position: absolute;
+}
+
 
 
 
